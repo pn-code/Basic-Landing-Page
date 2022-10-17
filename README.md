@@ -3,4 +3,4 @@
 Created with the guidance of The Odin Project 
 @ https://www.theodinproject.com/lessons/foundations-landing-page
 
-This is a basic html landing page stylized by basic CSS flexbox features.
+This Landing Page was created with HTML and stylized by CSS.
